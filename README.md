@@ -1,7 +1,6 @@
 # Hi there, I'm Aamna 👋
 
 🎓 B.Tech CSE | Front-End Developer | GEN-AI Engineer 
-
 📌 Secretary @ Verve | Event Organizer | Creative Strategist  
 💡 Passionate about building beautiful, functional websites and exploring new tech.
 
