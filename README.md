@@ -4,7 +4,7 @@
 💻 **Gen-AI Engineer | Data Science Enthusiast | Front-End Developer**
 
 📌 **Secretary @ Verve Club** — Leading events, collaborations, and creative initiatives
-🚀 Passionate about building **AI-powered applications**, exploring **Generative AI**, and developing **clean, user-friendly web interfaces**.
+ 🚀 Passionate about building **AI-powered applications**, exploring **Generative AI**, and developing **clean, user-friendly web interfaces**.
 
 ---
 
